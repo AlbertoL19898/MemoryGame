@@ -1,0 +1,27 @@
+C:\Users\Alber\Desktop\Accademia\c#\lez 2017-11-22\esDrawMemory\esDrawMemory\obj\Debug\esDrawMemory.csproj.CoreCompileInputs.cache
+C:\Users\Alber\Desktop\Accademia\c#\lez 2017-11-22\esDrawMemory\esDrawMemory\bin\Debug\esDrawMemory.exe.config
+C:\Users\Alber\Desktop\Accademia\c#\lez 2017-11-22\esDrawMemory\esDrawMemory\bin\Debug\esDrawMemory.exe
+C:\Users\Alber\Desktop\Accademia\c#\lez 2017-11-22\esDrawMemory\esDrawMemory\bin\Debug\esDrawMemory.pdb
+C:\Users\Alber\Desktop\Accademia\c#\lez 2017-11-22\esDrawMemory\esDrawMemory\bin\Debug\AivDraw.dll
+C:\Users\Alber\Desktop\Accademia\c#\lez 2017-11-22\esDrawMemory\esDrawMemory\obj\Debug\esDrawMemory.exe
+C:\Users\Alber\Desktop\Accademia\c#\lez 2017-11-22\esDrawMemory\esDrawMemory\obj\Debug\esDrawMemory.pdb
+C:\Users\Alber\Desktop\Accademia\c#\lez 2017-11-22\esDrawMemory\esDrawMemory\obj\Debug\esDrawMemory.csprojAssemblyReference.cache
+C:\Users\Alber\Desktop\Accademia\c#\lez 2017-11-22\esDrawMemory\esDrawMemory\obj\Debug\esDrawMemory.csproj.CopyComplete
+C:\Users\milan\OneDrive\Desktop\alberto\Accademia\c#\lez 2017-11-22\esDrawMemory\esDrawMemory\bin\Debug\esDrawMemory.exe.config
+C:\Users\milan\OneDrive\Desktop\alberto\Accademia\c#\lez 2017-11-22\esDrawMemory\esDrawMemory\bin\Debug\esDrawMemory.exe
+C:\Users\milan\OneDrive\Desktop\alberto\Accademia\c#\lez 2017-11-22\esDrawMemory\esDrawMemory\bin\Debug\esDrawMemory.pdb
+C:\Users\milan\OneDrive\Desktop\alberto\Accademia\c#\lez 2017-11-22\esDrawMemory\esDrawMemory\bin\Debug\AivDraw.dll
+C:\Users\milan\OneDrive\Desktop\alberto\Accademia\c#\lez 2017-11-22\esDrawMemory\esDrawMemory\obj\Debug\esDrawMemory.csprojAssemblyReference.cache
+C:\Users\milan\OneDrive\Desktop\alberto\Accademia\c#\lez 2017-11-22\esDrawMemory\esDrawMemory\obj\Debug\esDrawMemory.csproj.CoreCompileInputs.cache
+C:\Users\milan\OneDrive\Desktop\alberto\Accademia\c#\lez 2017-11-22\esDrawMemory\esDrawMemory\obj\Debug\esDrawMemory.csproj.CopyComplete
+C:\Users\milan\OneDrive\Desktop\alberto\Accademia\c#\lez 2017-11-22\esDrawMemory\esDrawMemory\obj\Debug\esDrawMemory.exe
+C:\Users\milan\OneDrive\Desktop\alberto\Accademia\c#\lez 2017-11-22\esDrawMemory\esDrawMemory\obj\Debug\esDrawMemory.pdb
+C:\Users\milan\OneDrive\Desktop\alberto\Accademia\Primo Anno\c#\lez 2017-11-22\esDrawMemory\esDrawMemory\bin\Debug\esDrawMemory.exe.config
+C:\Users\milan\OneDrive\Desktop\alberto\Accademia\Primo Anno\c#\lez 2017-11-22\esDrawMemory\esDrawMemory\bin\Debug\esDrawMemory.exe
+C:\Users\milan\OneDrive\Desktop\alberto\Accademia\Primo Anno\c#\lez 2017-11-22\esDrawMemory\esDrawMemory\bin\Debug\esDrawMemory.pdb
+C:\Users\milan\OneDrive\Desktop\alberto\Accademia\Primo Anno\c#\lez 2017-11-22\esDrawMemory\esDrawMemory\bin\Debug\AivDraw.dll
+C:\Users\milan\OneDrive\Desktop\alberto\Accademia\Primo Anno\c#\lez 2017-11-22\esDrawMemory\esDrawMemory\obj\Debug\esDrawMemory.csprojAssemblyReference.cache
+C:\Users\milan\OneDrive\Desktop\alberto\Accademia\Primo Anno\c#\lez 2017-11-22\esDrawMemory\esDrawMemory\obj\Debug\esDrawMemory.csproj.CoreCompileInputs.cache
+C:\Users\milan\OneDrive\Desktop\alberto\Accademia\Primo Anno\c#\lez 2017-11-22\esDrawMemory\esDrawMemory\obj\Debug\esDrawMemory.csproj.CopyComplete
+C:\Users\milan\OneDrive\Desktop\alberto\Accademia\Primo Anno\c#\lez 2017-11-22\esDrawMemory\esDrawMemory\obj\Debug\esDrawMemory.exe
+C:\Users\milan\OneDrive\Desktop\alberto\Accademia\Primo Anno\c#\lez 2017-11-22\esDrawMemory\esDrawMemory\obj\Debug\esDrawMemory.pdb
